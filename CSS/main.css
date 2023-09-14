@@ -253,7 +253,7 @@ a {
     white-space: nowrap;
     overflow: hidden;
     border-right: 2px solid rgb(93, 201, 211, 0.8);
-    animation: control-width 1.5s steps(5) 0.5s both, blink .3s infinite;
+    animation: control-width 1.5s steps(5) 1s both infinite, blink .3s infinite;
     -webkit-animation: control-width 1.5s steps(5) 0.5s both, blink .3s infinite;
 }
 @media (max-width: 1200px) {
